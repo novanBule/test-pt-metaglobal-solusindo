@@ -1,0 +1,1 @@
+SELECT * FROM mytable WHERE avabillity_transfer > 50;
